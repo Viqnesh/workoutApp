@@ -1,0 +1,38 @@
+{
+        "id" : 1,
+        "label" : "Data TRICEPS",
+        "exo1" : 
+        [ {
+            "id": 1,
+            "label": "DC Prise Serée",
+            "datas": [
+            { "set": 1, "weight": 75, "reps": 12 },
+            { "set": 2, "weight": 75, "reps": 10 },
+            { "set": 3, "weight": 78, "reps": 15 },
+            { "set": 4, "weight": 78, "reps": 12 },
+            { "set": 5, "weight": 70, "reps": 10 }
+            ]
+        } ],
+        "exo2" : 
+        [ {
+            "id": 1,
+            "label": "Extension Nuque",
+            "datas": [
+            { "set": 1, "weight": 14, "reps": 10 },
+            { "set": 2, "weight": 14, "reps": 10 },
+            { "set": 3, "weight": 14, "reps": 10 },
+            { "set": 4, "weight": 14, "reps": 10 }
+            ]
+        } ],
+        "exo3" : 
+        [ {
+            "id": 1,
+            "label": "Unilatéral Poulie",
+            "datas": [
+            { "set": 1, "weight": 12, "reps": 10 },
+            { "set": 2, "weight": 12, "reps": 10 },
+            { "set": 3, "weight": 12, "reps": 10 },
+            { "set": 4, "weight": 12, "reps": 10 }
+            ]
+        } ]
+}
